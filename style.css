@@ -1,0 +1,186 @@
+#divmain{
+    display:flex;
+    align-content:center;
+    text-decoration:none;
+    justify-content: space-evenly;
+    width: 1316px;
+    background-color: white;
+   position: fixed;
+}
+
+#divmain>input{
+    display: flex;
+    height: 38px;
+    width: 450px;
+    border-radius: 400px;
+    align-content: center;
+}
+#divmain1{
+    margin-top: 100px;
+}
+#divmain2{
+    display: flex;
+   justify-content: space-evenly;
+   margin-left:70px;
+   
+}
+#divsub3{
+    display: flex;
+    gap: 30px; 
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+        
+       }
+}
+
+#divsub4{
+    display: flex;
+    gap: 30PX;
+    margin-top: 50px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+        
+       }
+
+}
+#divsub5{
+    display: flex;
+    gap:30px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+        
+       }
+}
+#divsub6{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+        
+       }
+}
+#divsub7{
+    display: flex;
+    gap: 30px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+        
+       }
+}
+#divsub8{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+        
+       }
+}
+#divsub9{
+    display: flex;
+    gap: 30px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+        
+       }
+}
+#divsub10{
+    display: flex;
+    gap: 30px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+     }
+     
+}
+#divsub11{
+    display: flex;
+    gap: 30px;
+    h3{
+        margin-left: 30px;
+        margin-bottom: 50px;
+     }
+     
+}
+#divmain2{
+ display: flex;
+ margin-left: 190px;
+ margin-top: 70px;
+}
+#divmain3{
+    display:flex;
+}
+
+#divmain1{
+    position: fixed;
+    margin-top: 80px;
+}
+#divsub3>div>button{
+    margin-left: 20px;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+
+#divsub4>div>button{
+    margin-left: 20px ;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+
+#divsub5>div>button{
+    margin-left: 20px;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+
+#divsub6>div>button{
+    margin-left: 20px ;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+
+#divsub7>div>button{
+    margin-left: 20px ;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+
+#divsub8>div>button{
+    margin-left:  20px;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+
+#divsub9>div>button{
+    margin-left: 20px ;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+#divsub10>div>button{
+    margin-left: 20px;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
+
+#divsub11>div>button{
+    margin-left: 20px ;
+    justify-content: space-evenly;
+    border: 0px;
+    background-color: aliceblue;
+}
